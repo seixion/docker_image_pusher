@@ -12,5 +12,7 @@ apacherocketmq/rocketmq-dashboard:1.0.0
 
 xuxueli/xxl-job-admin:2.3.0
 
+budtmo/docker-android:emulator_11.0
+
 #支持指定架构
 --platform=linux/arm64
