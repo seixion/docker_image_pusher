@@ -12,6 +12,8 @@ apacherocketmq/rocketmq-dashboard:1.0.0
 
 xuxueli/xxl-job-admin:2.3.0
 
+budtmo/docker-android:emulator_9.0
+budtmo/docker-android:emulator_10.0
 budtmo/docker-android:emulator_11.0
 budtmo/docker-android:emulator_12.0
 budtmo/docker-android:emulator_13.0
